@@ -64,7 +64,7 @@ button:active{
 @media only screen and (max-width: 600px) {
     #calculator{
         max-width: 400px;
-        height: 65vh;
+        height: 600px;
     }
     button{
         width: 80px;
@@ -79,7 +79,7 @@ button:active{
 @media only screen and (max-width: 500px) {
     #calculator{
         max-width: 350px;
-        height: 59vh;
+        height: 540px;
     }
     button{
         width: 70px;
